@@ -1,0 +1,4 @@
+i love python
+
+Adam, 25, IT, Data Scientist Annie, 23, Marketing, Marketing Manager Ben, 28, IT, Data Analysis Betty, 30, IT, CTO Charlie,24,
+ Marketing, Marketing Specialist Cathy, 32, IT, Data Analysis
